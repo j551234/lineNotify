@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: lineNotify
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-10/31/2019 14:57-USER)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/lineNotify
+Libraries: C:\Users\USER\Desktop\lineNotify\src\main\resources,C:\User
+ s\USER\Desktop\lineNotify\target\classes
+Resource-Path: C:\Users\USER\Desktop\lineNotify\src\main\webapp
+

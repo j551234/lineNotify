@@ -1,0 +1,6 @@
+META-INF\annotations\hudson.Extension.txt
+io\jenkins\plugins\LineNotifyNotifier$DescriptorImpl.class
+io\jenkins\plugins\LineNotify.class
+io\jenkins\plugins\LineNotifyNotifier.class
+META-INF\annotations\hudson.Extension
+io\jenkins\plugins\LineNotifyNotifier.stapler
